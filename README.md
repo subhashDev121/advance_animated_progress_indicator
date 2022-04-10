@@ -4,6 +4,8 @@ This animated  [Flutter](https://flutter.io) widget package aims to show an anim
 
 ![AnimatedProgressIndicator](https://user-images.githubusercontent.com/93323979/162623716-0e3cdebb-ff91-4292-9cd6-2e286437b24c.gif)
 
+##PACKAGE LINK
+https://pub.dev/packages/advance_animated_progress_indicator
 
 ### Flutter install package
 
